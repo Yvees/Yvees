@@ -1,5 +1,5 @@
 ## Hello there, I'm Yves Shen <img src="https://raw.githubusercontent.com/Yvees/Yvees/master/dance.gif" width="27px">
-### I'm the FullStack Developer | .NET Veteran | Software Architect | Indie Game Developer.
+### I'm a FullStack Developer | Software Architect | Indie Game Developer.
 
 <img align='right' width="400px" src="https://raw.githubusercontent.com/Yvees/Yvees/master/day.gif" />
 
