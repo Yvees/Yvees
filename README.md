@@ -12,6 +12,7 @@
 
 ### ✨2024 Goal
 > I want to make a little game framework this year.<br>I'm currently working on a small game using monogame, which is an awesome game creator framework that makes it really easy to create a game. I'm hoping to create a framework to let people creating a game just focusing on the art and story.
-> Meanwhile, I am also focusing on quantitative trading frameworks in the cryptocurrency market and AI.
+
+> Meanwhile, I am also focusing on quantitative trading frameworks in the cryptocurrency market and personal AI assisant.
 
 <img width="400px" src="https://raw.githubusercontent.com/Yvees/Yvees/master/night.gif" />
